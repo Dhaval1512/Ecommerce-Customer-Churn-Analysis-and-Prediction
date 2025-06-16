@@ -2,9 +2,6 @@
 
 Welcome to the Ecommerce Customer Churn Analysis and Prediction project! This project involves analyzing customer data from an ecommerce platform, cleaning the data using Python, performing exploratory data analysis (EDA) with Power BI, applying machine learning techniques to predict customer churn, and finally, deploying the project.
 
-![Deployment](https://github.com/EricMohandhas/Ecommerce-Customer-Churn-Analysis-and-Prediction/assets/125111159/2f1bedb8-1026-4591-a780-ec9b8ddbb535)
-
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Analysis with Power BI](#data-analysis-with-power-bi)
